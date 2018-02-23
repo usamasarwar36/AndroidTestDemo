@@ -11,7 +11,7 @@ import com.futureuniverse.fgandroidtest.presenter.interfaces.GetPostsCallback;
 
 import java.util.List;
 
-/**
+/***
  * Created by Usama Sarwar on 4/1/2017.
  */
 
